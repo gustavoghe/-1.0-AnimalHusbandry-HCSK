@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ModMetaData>
+	<name>AnimalHusbandry</name>
+	<author>MightyGooga</author>
+	<supportedVersions><li>1.0</li></supportedVersions>
+	<description>V1.0
+    	This is a mod that adds things to make farming animals more viable.For now it adds two types of ration called Pellets, stronger than Kibble.
+		
+		Special Thanks to:
+			- Flonz (Idea)
+			- Sidfu (Support)
+			- NotFood (Support, Coding, BugSolving)
+			- Kubouch (Universal Fermenter)
+			- Cupropanda (Universal Fermenter)
+			- Skyarkhangel (Coding, Support, a huge thanks)
+			
+	</description>
+</ModMetaData>
